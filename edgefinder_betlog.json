@@ -49,8 +49,8 @@
       "price": 128,
       "units": 1.0,
       "date": "2026-06-30",
-      "result": null,
-      "units_pl": null
+      "result": "loss",
+      "units_pl": -1.0
     }
   ]
 }
